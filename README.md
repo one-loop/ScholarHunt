@@ -12,6 +12,8 @@ The site is still unfinished, but I plan on adding further scholarships, finishi
 Download the project source code and open the index.html file
 Search for scholarships by typing into the searchbar the scholarship by name, country, university or degree type.
 
+![Scholarship](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/688/985/datas/original.jpg)
+
 ## 📕 How we built it
 I got the data from webscraping scholarship search sites. My website is different to other similar sites because it has much more scholarships availiable in its database, and allows users to quickly and easily search for scholarships based on the country, university or field of study
 
