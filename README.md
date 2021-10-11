@@ -9,7 +9,7 @@ It allows mainly international and low income students from all over the globe t
 The site is still unfinished, but I plan on adding further scholarships, finishing the home page (which is still a template) and adding articles to help students maximize their chances of winning scholarships
 
 ## How to run
-Download the project source code and open the index.html file
+Visit: https://one-loop.github.io/ScholarHunt/
 Search for scholarships by typing into the searchbar the scholarship by name, country, university or degree type.
 
 ![Scholarship](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/688/985/datas/original.jpg)
