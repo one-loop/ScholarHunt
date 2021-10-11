@@ -6,6 +6,11 @@ As an final year highschool student, finding scholarship opportunities to study 
 
 ## 📌 What it does
 It allows mainly international and low income students from all over the globe to search up financial aid and scholarship opportunities at universities, allowing them to have better opportunities in life.
+The site is still unfinished, but I plan on adding further scholarships, finishing the home page (which is still a template) and adding articles to help students maximize their chances of winning scholarships
+
+## How to run
+Download the project source code and open the index.html file
+Search for scholarships by typing into the searchbar the scholarship by name, country, university or degree type.
 
 ## 📕 How we built it
 I got the data from webscraping scholarship search sites. My website is different to other similar sites because it has much more scholarships availiable in its database, and allows users to quickly and easily search for scholarships based on the country, university or field of study
