@@ -8,8 +8,58 @@ searchForm.addEventListener('submit', (event) => {
     event.stopImmediatePropagation();
     let searchTerm = searchBar.value;
     let scholarships = getScholarships(searchTerm);
+    document.querySelector('.autocomplete-box').style.display = 'none';
+    const autocompleteBox = document.querySelector('.autocomplete-box');
     displayScholarships(scholarships)
 })
+
+searchForm.addEventListener('input', (event) => {
+    event.preventDefault();
+    event.stopImmediatePropagation();
+    const searchResults = document.querySelector('.search-results');
+    searchResults.innerHTML = '';
+    
+    let searchTerm = searchBar.value;
+    if (searchTerm) {
+        let scholarshipsList = getScholarships(searchTerm);
+        // remove duplicate objects from list
+        const scholarships = Array.from(new Set(scholarshipsList.map(s => s.scholarship)))
+        .map(scholarship => {
+            return scholarshipsList.find(s => s.scholarship === scholarship)
+        })
+        scholarshipsList = scholarships.slice(0, 4)
+        displayAutocomplete(scholarshipsList)
+    }
+})
+
+function displayAutocomplete(scholarshipsList) {
+    const autocompleteBox = document.querySelector('.autocomplete-box');
+    autocompleteBox.innerHTML = '<h6>Autocomplete Results (Press Enter to Search)</h6>'
+    for (let scholarship of scholarshipsList) {
+        const result = document.createElement('div');
+        result.classList.add('autocomplete');
+        result.innerHTML = `
+            <h6>${scholarship.scholarship}</h6>
+            <p>${scholarship.country}</p>
+        `
+        autocompleteBox.append(result)
+        // searchResults.append(autocompleteBox);    
+    }
+}
+
+document.querySelector('.search-bar').onfocus = function() {
+    console.log('active');
+    document.querySelector('.autocomplete-box').style.display = 'block';
+    const searchButton = document.querySelector('.search-button')
+    searchButton.classList.toggle('search-button-active')
+}
+
+document.querySelector('.search-bar').onblur = function() {
+    console.log('blurred');
+    document.querySelector('.autocomplete-box').style.display = 'none';
+    const searchButton = document.querySelector('.search-button')
+    searchButton.classList.toggle('search-button-active')
+}
 
 function getScholarships(searchTerm) {
     let scholarships = [];

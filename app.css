@@ -11,6 +11,7 @@
     --scrollbar-track: #F0F0F0;
     --scrollbar-thumb: #717075;
     --scrollbar-hover: #555555;
+    --autocomplete: #ffffff90;
 }
 
 .dark {
@@ -26,6 +27,7 @@
     --scrollbar-track: #1f212e;
     --scrollbar-thumb: #4e5574;
     --scrollbar-hover: #4e5574;
+    --autocomplete: #292d3d50;
 }
 
 
@@ -104,6 +106,10 @@ form {
     box-shadow: rgba(0, 0, 0, 0.05) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
 }
 
+.search-bar:focus {
+    border-radius: 21px 0px 0px 0px;
+}
+
 .search-button {
     width: 50px;
     height: 50px;
@@ -111,6 +117,11 @@ form {
     border-radius: 0 21px 21px 0;
     margin: 0;
     border: none;
+}
+
+.search-button-active {
+    border-radius: 0 21px 0px 0;
+    border-bottom: 1px solid var(--background-color);
 }
 
 ::selection {
@@ -329,4 +340,44 @@ tr:last-of-type td:last-of-type {
 
 .github-logo:hover {
     fill: var(--tag) !important;
+}
+
+.autocomplete-box {
+    position: absolute;
+    width: calc(26vw + 50px);
+    color: var(--scholarship-panel-color);
+    background-color: var(--primary);
+    border-radius: 0px 0px 20px 20px;
+    display: none;
+    /* opacity: 50%; */
+}
+
+.autocomplete-box > h6 {
+    padding: 10px;
+}
+
+.autocomplete {
+    padding: 10px;
+    padding-bottom: 10px;
+    background-color: var(--primary);
+    opacity: 40%;
+}
+
+
+.autocomplete:hover {
+    background-color: var(--selection);
+}
+
+.autocomplete:last-child:hover {
+    border-radius: 0px 0px 20px 20px;
+    background-color: var(--selection);
+}
+
+.autocomplete > p {
+    padding: 0;
+    margin: 0;
+}
+
+.autocomplete-box-selected {
+    display: block;
 }
