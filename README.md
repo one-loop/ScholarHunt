@@ -16,16 +16,16 @@ Search for scholarships by typing into the searchbar the scholarship by name, co
 
 ## 📕 Features
 I didn't have time to get users for the site, but I plan on marketing my website tomorrow on forums and subreddits to help international students and low income students find opportunities for their education. I also plan on adding more scholarships and opportunities I find to the website. Right now I have 456 scholarships listed on the website which I got from web scraping various sites. A lot of the site is still unfinished like the home page, about page and all scholarships page, which I also plan on working on.
-[x] Get Scholarships
-[x] Search Scholarships
-[x] Autocomplete Search Results
-[x] User Interface
-[ ] Landing Page (unfinished)
-[ ] Get Users + Marketing (high priority)
-[ ] Extracting more data from webscraping
-[ ] Adding Articles Page
-[ ] Adding About Page
-[ ] Surveying Users to Improve UX
+- [x] Get Scholarships
+- [x] Search Scholarships
+- [x] Autocomplete Search Results
+- [x] User Interface
+- [ ] Landing Page (unfinished)
+- [ ] Get Users + Marketing (high priority)
+- [ ] Extracting more data from webscraping
+- [ ] Adding Articles Page
+- [ ] Adding About Page
+- [ ] Surveying Users to Improve UX
 
 ## 🔎 Sources
 - Information Scraped From: scholar4dev
