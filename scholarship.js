@@ -176,7 +176,7 @@ let scholarshipData = [
       "provider": "Ashinaga",
       "degreeType": "Bachelors Degree",
       "deadline": "Deadline: 29 Feb 2016 (annual)",
-      "country": "Any country",
+      "country": "Any Country",
       "courseDate": "2016"
     },
     {
@@ -226,7 +226,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022"
     },
     {
@@ -296,7 +296,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22"
     },
     {
@@ -526,7 +526,7 @@ let scholarshipData = [
       "provider": "Berea College",
       "degreeType": "Bachelors Degree",
       "deadline": "Deadline: 31 Oct/30 Nov 2018",
-      "country": "Kentucky, USA",
+      "country": "USA",
       "courseDate": ": Sept 2019"
     },
     {
@@ -546,7 +546,7 @@ let scholarshipData = [
       "provider": "University College London (UCL)",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "Deadline: 6 July 2018",
-      "country": "London",
+      "country": "UK",
       "courseDate": "September 2018"
     },
     {
@@ -626,7 +626,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021"
     },
     {
@@ -676,7 +676,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016"
     },
     {
@@ -686,7 +686,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts June 2014"
     },
     {
@@ -716,7 +716,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015"
     },
     {
@@ -726,7 +726,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts September 2014"
     },
     {
@@ -820,16 +820,6 @@ let scholarshipData = [
       "courseDate": "Sept 2021"
     },
     {
-      "scholarship": "Benjamin A. Gilman International Scholarship",
-      "link": "https://www.scholars4dev.com/26028/benjamin-a-gilman-international-scholarship/",
-      "dateUpdated": "04 Aug 2020",
-      "provider": "U.S. Department of State",
-      "degreeType": "Bachelors Degree",
-      "deadline": "31 Mar/31 Oct 2020 (Annual)",
-      "country": "Countries outside the U.S.",
-      "courseDate": "2020/2021/2022"
-    },
-    {
       "scholarship": "Sydney Scholars Awards",
       "link": "https://www.scholars4dev.com/25903/sydney-scholars-awards/",
       "dateUpdated": "21 Jul 2020 CURRENTLY CLOSED",
@@ -876,7 +866,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021"
     },
     {
@@ -896,7 +886,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021"
     },
     {
@@ -946,7 +936,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Conference",
       "deadline": "Deadline: 20 July 2018",
-      "country": "Venue:  The Hague, Netherlands",
+      "country": "Netherlands",
       "courseDate": "Conference dates: 17-20 October 2018"
     },
     {
@@ -956,7 +946,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019"
     },
     {
@@ -976,7 +966,7 @@ let scholarshipData = [
       "provider": "Mo Ibrahim Foundation",
       "degreeType": "Leadership Fellowships",
       "deadline": "15 Oct 2021 (annual)",
-      "country": "Country: Côte d’Ivoire/Ethiopia/Switzerland",
+      "country": "Switzerland",
       "courseDate": "Fellowship starts 2022"
     },
     {
@@ -1026,7 +1016,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021"
     },
     {
@@ -1046,7 +1036,7 @@ let scholarshipData = [
       "provider": "Global Sustainable Electricity Partnership",
       "degreeType": "Masters Degree",
       "deadline": "8 Mar 2021 (annual)",
-      "country": "Any Country*",
+      "country": "Any Country",
       "courseDate": "2021"
     },
     {
@@ -1086,7 +1076,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021"
     },
     {
@@ -1126,7 +1116,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022"
     },
     {
@@ -1256,7 +1246,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019"
     },
     {
@@ -1276,7 +1266,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019"
     },
     {
@@ -1296,7 +1286,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020"
     },
     {
@@ -1636,7 +1626,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022"
     },
     {
@@ -1656,7 +1646,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021"
     },
     {
@@ -1666,7 +1656,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021"
     },
     {
@@ -1836,7 +1826,7 @@ let scholarshipData = [
       "provider": "University of London",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 24 Aug 2020  (annual)",
-      "country": "any country (online)",
+      "country": "Any Country",
       "courseDate": "October 2020"
     },
     {
@@ -1956,7 +1946,7 @@ let scholarshipData = [
       "provider": "FINCAD",
       "degreeType": "Masters/PhD Degree",
       "deadline": "30 June 2021 (Annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021"
     },
     {
@@ -2066,7 +2056,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021"
     },
     {
@@ -2106,7 +2096,7 @@ let scholarshipData = [
       "provider": "Wellcome",
       "degreeType": "Masters Degree/Research Project",
       "deadline": "13 April/24 Aug 2021",
-      "country": "any country/developing country",
+      "country": "Any Country",
       "courseDate": "2021/22"
     },
     {
@@ -2206,7 +2196,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021"
     },
     {
@@ -2216,7 +2206,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021"
     },
     {
@@ -2256,7 +2246,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22"
     },
     {
@@ -2326,7 +2316,7 @@ let scholarshipData = [
       "provider": "INSEAD",
       "degreeType": "Master’s Degree",
       "deadline": "Deadline: 7 May/25 Jun 2018",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "January 2019"
     },
     {
@@ -2346,7 +2336,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016"
     },
     {
@@ -2596,7 +2586,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015"
     },
     {
@@ -2626,7 +2616,7 @@ let scholarshipData = [
       "provider": "Mo Ibrahim Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 30 April 2015",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2015"
     },
     {
@@ -2786,7 +2776,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014"
     },
     {
@@ -2876,7 +2866,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019"
     },
     {
@@ -3106,7 +3096,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016"
     },
     {
@@ -3136,7 +3126,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016"
     },
     {
@@ -3246,7 +3236,7 @@ let scholarshipData = [
       "provider": "University of East London",
       "degreeType": "Masters (MS) Degree",
       "deadline": "1 July 2013",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2013"
     },
     {
@@ -3296,7 +3286,7 @@ let scholarshipData = [
       "provider": "London South Bank University",
       "degreeType": "Postgraduate Degree",
       "deadline": "Deadline: 30 June 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017"
     },
     {
@@ -3316,7 +3306,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 9 June 2017",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2017"
     },
     {
@@ -3586,7 +3576,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022"
     },
     {
@@ -3606,7 +3596,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022"
     },
     {
@@ -3756,7 +3746,7 @@ let scholarshipData = [
       "provider": "East-West Center",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 3 Nov 2014 (annual)",
-      "country": "Hawaii, USA",
+      "country": "USA",
       "courseDate": "August 2015"
     },
     {
@@ -3796,7 +3786,7 @@ let scholarshipData = [
       "provider": "Aga Khan Foundation",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 31 March (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021"
     },
     {
@@ -3866,7 +3856,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -3876,7 +3866,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -3886,7 +3876,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -3916,7 +3906,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -3946,7 +3936,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "ESMOD\nMasters Degree",
       "deadline": "31 March 2014",
-      "country": "Berlin, Germany",
+      "country": "Germany",
       "courseDate": "October 2014"
     },
     {
@@ -4026,7 +4016,7 @@ let scholarshipData = [
       "provider": "ALB Foundation",
       "degreeType": "MBA",
       "deadline": "check website",
-      "country": "Spain and other countries",
+      "country": "Spain",
       "courseDate": "2014"
     },
     {
@@ -4086,7 +4076,7 @@ let scholarshipData = [
       "provider": "Geneva Academy",
       "degreeType": "Masters Degree",
       "deadline": "28 Jan 2022 (annual)",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2022"
     },
     {
@@ -4166,7 +4156,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -4396,7 +4386,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021"
     },
     {
@@ -4406,7 +4396,7 @@ let scholarshipData = [
       "provider": "UNU-IIST",
       "degreeType": "PhD Degree",
       "deadline": "15 Nov 2012",
-      "country": "Macau/Pisa, Italy",
+      "country": "Italy",
       "courseDate": "7 Jan 2013"
     },
     {
@@ -4536,7 +4526,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021"
     },
     {
@@ -4666,7 +4656,7 @@ let scholarshipData = [
       "provider": "Max Planck Institute for Structural Dynamics",
       "degreeType": "PhD Fellowships",
       "deadline": "13 January 2014",
-      "country": "Hamburg, Germany",
+      "country": "Germany",
       "courseDate": "Summer/Autumn 2014"
     },
     {
@@ -4716,7 +4706,7 @@ let scholarshipData = [
       "provider": "FINCAD",
       "degreeType": "Masters/PhD Degree",
       "deadline": "30 June 2021 (Annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021"
     },
     {
@@ -4746,7 +4736,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022"
     },
     {
@@ -4816,7 +4806,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017"
     },
     {
@@ -5016,7 +5006,7 @@ let scholarshipData = [
       "provider": "University of Warwick",
       "degreeType": "PhD Degree",
       "deadline": "21 Jan 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "October 2021"
     },
     {
@@ -5186,7 +5176,7 @@ let scholarshipData = [
       "provider": "Aga Khan Foundation",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 31 March (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021"
     },
     {
@@ -5226,7 +5216,7 @@ let scholarshipData = [
       "provider": "East-West Center",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 3 Nov 2014 (annual)",
-      "country": "Hawaii, USA",
+      "country": "USA",
       "courseDate": "August 2015"
     },
     {
@@ -5516,7 +5506,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017"
     },
     {
@@ -5546,7 +5536,7 @@ let scholarshipData = [
       "provider": "Central European University",
       "degreeType": "Research Fellowship",
       "deadline": "11 November 2013",
-      "country": "Budapest, Hungary",
+      "country": "Hungary",
       "courseDate": "2014"
     },
     {
@@ -5626,7 +5616,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -5636,7 +5626,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -5646,7 +5636,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -5806,7 +5796,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -5816,7 +5806,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -5826,7 +5816,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -5836,7 +5826,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014"
     },
     {
@@ -5957,7 +5947,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Agriculture"
     },
@@ -6133,7 +6123,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "field": "Agriculture"
     },
@@ -6166,7 +6156,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Agriculture"
     },
@@ -6221,7 +6211,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Agriculture"
     },
@@ -6375,7 +6365,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Agriculture"
     },
@@ -6474,7 +6464,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Agriculture"
     },
@@ -6496,7 +6486,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "field": "Agriculture"
     },
@@ -6507,7 +6497,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "field": "Agriculture"
     },
@@ -6683,7 +6673,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "field": "Any"
     },
@@ -6815,7 +6805,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Any"
     },
@@ -7046,7 +7036,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021",
       "field": "Any"
     },
@@ -7409,7 +7399,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Any"
     },
@@ -7420,7 +7410,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "field": "Any"
     },
@@ -7453,7 +7443,7 @@ let scholarshipData = [
       "provider": "Ashinaga",
       "degreeType": "Bachelors Degree",
       "deadline": "Deadline: 29 Feb 2016 (annual)",
-      "country": "Any country",
+      "country": "Any Country",
       "courseDate": "2016",
       "field": "Any"
     },
@@ -7464,7 +7454,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "field": "Any"
     },
@@ -7519,7 +7509,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022",
       "field": "Any"
     },
@@ -7631,17 +7621,6 @@ let scholarshipData = [
       "deadline": "Late Sep/Early Oct 2020 (Annual)",
       "country": "UK",
       "courseDate": "Autumn 2021",
-      "field": "Any"
-    },
-    {
-      "scholarship": "Benjamin A. Gilman International Scholarship",
-      "link": "https://www.scholars4dev.com/26028/benjamin-a-gilman-international-scholarship/",
-      "dateUpdated": "04 Aug 2020",
-      "provider": "U.S. Department of State",
-      "degreeType": "Bachelors Degree",
-      "deadline": "31 Mar/31 Oct 2020 (Annual)",
-      "country": "Countries outside the U.S.",
-      "courseDate": "2020/2021/2022",
       "field": "Any"
     },
     {
@@ -7992,7 +7971,7 @@ let scholarshipData = [
       "provider": "University College London (UCL)",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "Deadline: 6 July 2018",
-      "country": "London",
+      "country": "UK",
       "courseDate": "September 2018",
       "field": "Any"
     },
@@ -8058,7 +8037,7 @@ let scholarshipData = [
       "provider": "London South Bank University",
       "degreeType": "Postgraduate Degree",
       "deadline": "Deadline: 30 June 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "field": "Any"
     },
@@ -8146,7 +8125,7 @@ let scholarshipData = [
       "provider": "East-West Center",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 3 Nov 2014 (annual)",
-      "country": "Hawaii, USA",
+      "country": "USA",
       "courseDate": "August 2015",
       "field": "Any"
     },
@@ -8190,7 +8169,7 @@ let scholarshipData = [
       "provider": "Aga Khan Foundation",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 31 March (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021",
       "field": "Any"
     },
@@ -8399,7 +8378,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Any"
     },
@@ -8432,7 +8411,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "field": "Any"
     },
@@ -8520,7 +8499,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Any"
     },
@@ -8553,7 +8532,7 @@ let scholarshipData = [
       "provider": "Berea College",
       "degreeType": "Bachelors Degree",
       "deadline": "Deadline: 31 Oct/30 Nov 2018",
-      "country": "Kentucky, USA",
+      "country": "USA",
       "courseDate": ": Sept 2019",
       "field": "Any"
     },
@@ -8597,7 +8576,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Any"
     },
@@ -8729,7 +8708,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "Allan and Nesta Ferguson Charitable Trust\nMasters Degree",
       "deadline": "Deadline: 22 Feb 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "field": "Development Studies"
     },
@@ -8784,7 +8763,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Development Studies"
     },
@@ -8828,7 +8807,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Development Studies"
     },
@@ -8883,7 +8862,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "field": "Development Studies"
     },
@@ -8938,7 +8917,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "field": "Development Studies"
     },
@@ -8949,7 +8928,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "field": "Development Studies"
     },
@@ -9103,7 +9082,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "field": "Development Studies"
     },
@@ -9158,7 +9137,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Development Studies"
     },
@@ -9180,7 +9159,7 @@ let scholarshipData = [
       "provider": "Mo Ibrahim Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 30 April 2015",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2015",
       "field": "Development Studies"
     },
@@ -9202,7 +9181,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Development Studies"
     },
@@ -9213,7 +9192,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Development Studies"
     },
@@ -9224,7 +9203,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Development Studies"
     },
@@ -9235,7 +9214,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Development Studies"
     },
@@ -9334,7 +9313,7 @@ let scholarshipData = [
       "provider": "University of East London",
       "degreeType": "Masters (MS) Degree",
       "deadline": "1 July 2013",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2013",
       "field": "Development Studies"
     },
@@ -9400,7 +9379,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "field": "Development Studies"
     },
@@ -9411,7 +9390,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Development Studies"
     },
@@ -9488,7 +9467,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Development Studies"
     },
@@ -9653,7 +9632,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Development Studies"
     },
@@ -9785,7 +9764,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Economics and Finance"
     },
@@ -9884,7 +9863,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Economics and Finance"
     },
@@ -9939,7 +9918,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Economics and Finance"
     },
@@ -9983,7 +9962,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "field": "Economics and Finance"
     },
@@ -10016,7 +9995,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "field": "Economics and Finance"
     },
@@ -10060,7 +10039,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "field": "Economics and Finance"
     },
@@ -10181,7 +10160,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "field": "Economics and Finance"
     },
@@ -10192,7 +10171,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Economics and Finance"
     },
@@ -10467,7 +10446,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Economics and Finance"
     },
@@ -10599,7 +10578,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Environmental Management"
     },
@@ -10775,7 +10754,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Environmental Management"
     },
@@ -10808,7 +10787,7 @@ let scholarshipData = [
       "provider": "Global Sustainable Electricity Partnership",
       "degreeType": "Masters Degree",
       "deadline": "8 Mar 2021 (annual)",
-      "country": "Any Country*",
+      "country": "Any Country",
       "courseDate": "2021",
       "field": "Environmental Management"
     },
@@ -10841,7 +10820,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Environmental Management"
     },
@@ -11006,7 +10985,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "field": "Environmental Management"
     },
@@ -11028,7 +11007,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "field": "Environmental Management"
     },
@@ -11083,7 +11062,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "field": "Environmental Management"
     },
@@ -11094,7 +11073,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Environmental Management"
     },
@@ -11446,7 +11425,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Environmental Management"
     },
@@ -11457,7 +11436,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "field": "Engineering"
     },
@@ -11501,7 +11480,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Engineering"
     },
@@ -11578,7 +11557,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "field": "Engineering"
     },
@@ -11820,7 +11799,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Engineering"
     },
@@ -11864,7 +11843,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Engineering"
     },
@@ -11974,7 +11953,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "field": "Engineering"
     },
@@ -12040,7 +12019,7 @@ let scholarshipData = [
       "provider": "UNU-IIST",
       "degreeType": "PhD Degree",
       "deadline": "15 Nov 2012",
-      "country": "Macau/Pisa, Italy",
+      "country": "Italy",
       "courseDate": "7 Jan 2013",
       "field": "Education"
     },
@@ -12117,7 +12096,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Education"
     },
@@ -12183,7 +12162,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Education"
     },
@@ -12216,7 +12195,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "field": "Education"
     },
@@ -12238,7 +12217,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "field": "Education"
     },
@@ -12293,7 +12272,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Education"
     },
@@ -12359,7 +12338,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Education"
     },
@@ -12392,7 +12371,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Education"
     },
@@ -12414,7 +12393,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Education"
     },
@@ -12458,7 +12437,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Health"
     },
@@ -12480,7 +12459,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Health"
     },
@@ -12557,7 +12536,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Health"
     },
@@ -12700,7 +12679,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Health"
     },
@@ -12755,7 +12734,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "field": "Health"
     },
@@ -12865,7 +12844,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "field": "Health"
     },
@@ -12898,7 +12877,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Health"
     },
@@ -13008,7 +12987,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Health"
     },
@@ -13074,7 +13053,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "field": "Health"
     },
@@ -13096,7 +13075,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "field": "Health"
     },
@@ -13151,7 +13130,7 @@ let scholarshipData = [
       "provider": "Wellcome",
       "degreeType": "Masters Degree/Research Project",
       "deadline": "13 April/24 Aug 2021",
-      "country": "any country/developing country",
+      "country": "Any Country",
       "courseDate": "2021/22",
       "field": "Health"
     },
@@ -13162,7 +13141,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021",
       "field": "Health"
     },
@@ -13239,7 +13218,7 @@ let scholarshipData = [
       "provider": "UNU-IIST",
       "degreeType": "PhD Degree",
       "deadline": "15 Nov 2012",
-      "country": "Macau/Pisa, Italy",
+      "country": "Italy",
       "courseDate": "7 Jan 2013",
       "field": "Health"
     },
@@ -13261,7 +13240,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Human Development"
     },
@@ -13305,7 +13284,7 @@ let scholarshipData = [
       "provider": "University of London",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 24 Aug 2020  (annual)",
-      "country": "any country (online)",
+      "country": "Any Country",
       "courseDate": "October 2020",
       "field": "Human Development"
     },
@@ -13371,7 +13350,7 @@ let scholarshipData = [
       "provider": "Geneva Academy",
       "degreeType": "Masters Degree",
       "deadline": "28 Jan 2022 (annual)",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2022",
       "field": "Human Development"
     },
@@ -13426,7 +13405,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Human Development"
     },
@@ -13459,7 +13438,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Human Development"
     },
@@ -13492,7 +13471,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "field": "Human Development"
     },
@@ -13514,7 +13493,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Human Development"
     },
@@ -13569,7 +13548,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Human Development"
     },
@@ -13613,7 +13592,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Human Development"
     },
@@ -13800,7 +13779,7 @@ let scholarshipData = [
       "provider": "Geneva Academy",
       "degreeType": "Masters Degree",
       "deadline": "28 Jan 2022 (annual)",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2022",
       "field": "Humanitites"
     },
@@ -13888,7 +13867,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Humanitites"
     },
@@ -13976,7 +13955,7 @@ let scholarshipData = [
       "provider": "University of London",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 24 Aug 2020  (annual)",
-      "country": "any country (online)",
+      "country": "Any Country",
       "courseDate": "October 2020",
       "field": "Humanitites"
     },
@@ -14053,7 +14032,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Humanitites"
     },
@@ -14097,7 +14076,7 @@ let scholarshipData = [
       "provider": "UNU-IIST",
       "degreeType": "PhD Degree",
       "deadline": "15 Nov 2012",
-      "country": "Macau/Pisa, Italy",
+      "country": "Italy",
       "courseDate": "7 Jan 2013",
       "field": "Information Technology"
     },
@@ -14152,7 +14131,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Information Technology"
     },
@@ -14196,7 +14175,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016",
       "field": "Information Technology"
     },
@@ -14394,7 +14373,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "field": "Information Technology"
     },
@@ -14438,7 +14417,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Information Technology"
     },
@@ -14449,7 +14428,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "field": "Information Technology"
     },
@@ -14471,7 +14450,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts June 2014",
       "field": "Information Technology"
     },
@@ -14482,7 +14461,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Information Technology"
     },
@@ -14515,7 +14494,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "field": "Information Technology"
     },
@@ -14526,7 +14505,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts September 2014",
       "field": "Information Technology"
     },
@@ -14614,7 +14593,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Information Technology"
     },
@@ -14713,7 +14692,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Journalism"
     },
@@ -14790,7 +14769,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Journalism"
     },
@@ -14856,7 +14835,7 @@ let scholarshipData = [
       "provider": "UNU-IIST",
       "degreeType": "PhD Degree",
       "deadline": "15 Nov 2012",
-      "country": "Macau/Pisa, Italy",
+      "country": "Italy",
       "courseDate": "7 Jan 2013",
       "field": "Education"
     },
@@ -14878,7 +14857,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Education"
     },
@@ -14911,7 +14890,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Education"
     },
@@ -14933,7 +14912,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Education"
     },
@@ -14999,7 +14978,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Education"
     },
@@ -15032,7 +15011,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "field": "Education"
     },
@@ -15054,7 +15033,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "field": "Education"
     },
@@ -15109,7 +15088,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Education"
     },
@@ -15230,7 +15209,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Education"
     },
@@ -15461,7 +15440,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "field": "Law"
     },
@@ -15472,7 +15451,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Law"
     },
@@ -15538,7 +15517,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Law"
     },
@@ -15824,7 +15803,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Law"
     },
@@ -15835,7 +15814,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "field": "Law"
     },
@@ -15868,7 +15847,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Law"
     },
@@ -15890,7 +15869,7 @@ let scholarshipData = [
       "provider": "Geneva Academy",
       "degreeType": "Masters Degree",
       "deadline": "28 Jan 2022 (annual)",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2022",
       "field": "Law"
     },
@@ -16110,7 +16089,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "field": "MBA"
     },
@@ -16176,7 +16155,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "field": "MBA"
     },
@@ -16198,7 +16177,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "field": "MBA"
     },
@@ -16209,7 +16188,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "MBA"
     },
@@ -16308,7 +16287,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016",
       "field": "MBA"
     },
@@ -16319,7 +16298,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts June 2014",
       "field": "MBA"
     },
@@ -16341,7 +16320,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts September 2014",
       "field": "MBA"
     },
@@ -16352,7 +16331,7 @@ let scholarshipData = [
       "provider": "ALB Foundation",
       "degreeType": "MBA",
       "deadline": "check website",
-      "country": "Spain and other countries",
+      "country": "Spain",
       "courseDate": "2014",
       "field": "MBA"
     },
@@ -16363,7 +16342,7 @@ let scholarshipData = [
       "provider": "London Business School",
       "degreeType": "Masters Degree  Next",
       "deadline": "Next coincides with admission",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "August 2020",
       "field": "MBA"
     },
@@ -16407,7 +16386,7 @@ let scholarshipData = [
       "provider": "Fondation Rainbow Bridge/HEC",
       "degreeType": "MBA Degree",
       "deadline": "Deadline: 15 Jun/26 Nov 2018 (annual)",
-      "country": "Paris, France",
+      "country": "France",
       "courseDate": "Next course starts Sept 2018/Jan 2019",
       "field": "MBA"
     },
@@ -16418,7 +16397,7 @@ let scholarshipData = [
       "provider": "INSEAD",
       "degreeType": "Master’s Degree",
       "deadline": "Deadline: 7 May/25 Jun 2018",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "January 2019",
       "field": "MBA"
     },
@@ -16462,7 +16441,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "field": "Medicine "
     },
@@ -16605,7 +16584,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "field": "Medicine "
     },
@@ -16627,7 +16606,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021",
       "field": "Medicine "
     },
@@ -16649,7 +16628,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Medicine "
     },
@@ -16814,7 +16793,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Natural Science"
     },
@@ -17056,7 +17035,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "field": "Natural Science"
     },
@@ -17320,7 +17299,7 @@ let scholarshipData = [
       "provider": "Max Planck Institute for Structural Dynamics",
       "degreeType": "PhD Fellowships",
       "deadline": "13 January 2014",
-      "country": "Hamburg, Germany",
+      "country": "Germany",
       "courseDate": "Summer/Autumn 2014",
       "field": "Natural Science"
     },
@@ -17375,7 +17354,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Natural Science"
     },
@@ -17507,7 +17486,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Social Sciences"
     },
@@ -17551,7 +17530,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Social Sciences"
     },
@@ -17562,7 +17541,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Social Sciences"
     },
@@ -17573,7 +17552,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Social Sciences"
     },
@@ -17584,7 +17563,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Social Sciences"
     },
@@ -17826,7 +17805,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "field": "Social Sciences"
     },
@@ -17837,7 +17816,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Social Sciences"
     },
@@ -17936,7 +17915,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Social Sciences"
     },
@@ -17980,7 +17959,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Social Sciences"
     },
@@ -18057,7 +18036,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "field": "Social Sciences"
     },
@@ -18068,7 +18047,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Social Sciences"
     },
@@ -18211,7 +18190,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Social Sciences"
     },
@@ -18266,7 +18245,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Science and Technology"
     },
@@ -18310,7 +18289,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "field": "Science and Technology"
     },
@@ -18376,7 +18355,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "field": "Science and Technology"
     },
@@ -18475,7 +18454,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Science and Technology"
     },
@@ -18596,7 +18575,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "field": "Science and Technology"
     },
@@ -18827,7 +18806,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Peace"
     },
@@ -18838,7 +18817,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Peace"
     },
@@ -18849,7 +18828,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Peace"
     },
@@ -18860,7 +18839,7 @@ let scholarshipData = [
       "provider": "UNITAR/UOC",
       "degreeType": "Postgraduate qualification",
       "deadline": "1 July 2014",
-      "country": "any country",
+      "country": "Any Country",
       "courseDate": "September 2014",
       "field": "Peace"
     },
@@ -18970,7 +18949,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "field": "Peace"
     },
@@ -19003,7 +18982,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "field": "Peace"
     },
@@ -19058,7 +19037,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "field": "Peace"
     },
@@ -19157,7 +19136,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "field": "Peace"
     },
@@ -19168,7 +19147,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "field": "Peace"
     },
@@ -19190,7 +19169,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "field": "Peace"
     },
@@ -19267,7 +19246,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "region": "Asia"
     },
@@ -19322,7 +19301,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "region": "Asia"
     },
@@ -19432,7 +19411,7 @@ let scholarshipData = [
       "provider": "UNU-IIST",
       "degreeType": "PhD Degree",
       "deadline": "15 Nov 2012",
-      "country": "Macau/Pisa, Italy",
+      "country": "Italy",
       "courseDate": "7 Jan 2013",
       "region": "Asia"
     },
@@ -19498,7 +19477,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "region": "Asia"
     },
@@ -19509,7 +19488,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "region": "Asia"
     },
@@ -19531,7 +19510,7 @@ let scholarshipData = [
       "provider": "INSEAD",
       "degreeType": "Master’s Degree",
       "deadline": "Deadline: 7 May/25 Jun 2018",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "January 2019",
       "region": "Asia"
     },
@@ -19553,7 +19532,7 @@ let scholarshipData = [
       "provider": "Global Sustainable Electricity Partnership",
       "degreeType": "Masters Degree",
       "deadline": "8 Mar 2021 (annual)",
-      "country": "Any Country*",
+      "country": "Any Country",
       "courseDate": "2021",
       "region": "Any Country"
     },
@@ -19564,7 +19543,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "region": "Any Country"
     },
@@ -19575,7 +19554,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "region": "Any Country"
     },
@@ -19591,24 +19570,13 @@ let scholarshipData = [
       "region": "Any Country"
     },
     {
-      "scholarship": "Benjamin A. Gilman International Scholarship",
-      "link": "https://www.scholars4dev.com/26028/benjamin-a-gilman-international-scholarship/",
-      "dateUpdated": "04 Aug 2020",
-      "provider": "U.S. Department of State",
-      "degreeType": "Bachelors Degree",
-      "deadline": "31 Mar/31 Oct 2020 (Annual)",
-      "country": "Countries outside the U.S.",
-      "courseDate": "2020/2021/2022",
-      "region": "Any Country"
-    },
-    {
       "scholarship": "Guy S. Goodwin-Gill Scholarship for the MA Refugee Protection and Forced Migration Studies (Online)",
       "link": "https://www.scholars4dev.com/23387/guy-s-goodwin-gill-scholarship-for-the-ma-refugee-protection-and-forced-migration-studies/",
       "dateUpdated": "21 Jul 2020 CURRENTLY CLOSED",
       "provider": "University of London",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 24 Aug 2020  (annual)",
-      "country": "any country (online)",
+      "country": "Any Country",
       "courseDate": "October 2020",
       "region": "Any Country"
     },
@@ -19641,7 +19609,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts September 2014",
       "region": "Any Country"
     },
@@ -19652,7 +19620,7 @@ let scholarshipData = [
       "provider": "Aga Khan Foundation",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 31 March (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021",
       "region": "Any Country"
     },
@@ -19663,7 +19631,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019",
       "region": "Any Country"
     },
@@ -19696,7 +19664,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "region": "Any Country"
     },
@@ -19740,7 +19708,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "region": "Any Country"
     },
@@ -19751,7 +19719,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "region": "Any Country"
     },
@@ -19762,7 +19730,7 @@ let scholarshipData = [
       "provider": "Wellcome",
       "degreeType": "Masters Degree/Research Project",
       "deadline": "13 April/24 Aug 2021",
-      "country": "any country/developing country",
+      "country": "Any Country",
       "courseDate": "2021/22",
       "region": "Any Country"
     },
@@ -19773,7 +19741,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021",
       "region": "Any Country"
     },
@@ -19839,7 +19807,7 @@ let scholarshipData = [
       "provider": "MasterCard Foundation",
       "degreeType": "Bachelors/Masters/PhD Degree",
       "deadline": "Deadline: Jan-July 2016",
-      "country": "USA & Africa",
+      "country": "USA",
       "courseDate": "September 2016",
       "region": "South Africa"
     },
@@ -19927,7 +19895,7 @@ let scholarshipData = [
       "provider": "MasterCard Foundation",
       "degreeType": "Bachelors/Masters/PhD Degree",
       "deadline": "Deadline: Jan-July 2016",
-      "country": "USA & Africa",
+      "country": "USA",
       "courseDate": "September 2016",
       "region": "Africa"
     },
@@ -19971,7 +19939,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "region": "China"
     },
@@ -19993,7 +19961,7 @@ let scholarshipData = [
       "provider": "UNU-IIST",
       "degreeType": "PhD Degree",
       "deadline": "15 Nov 2012",
-      "country": "Macau/Pisa, Italy",
+      "country": "Italy",
       "courseDate": "7 Jan 2013",
       "region": "China"
     },
@@ -20004,7 +19972,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "region": "Hong Kong"
     },
@@ -20037,7 +20005,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "region": "Indonesia"
     },
@@ -20213,7 +20181,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "region": "Philippines"
     },
@@ -20246,7 +20214,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "region": "Singapore"
     },
@@ -20279,7 +20247,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "region": "Singapore"
     },
@@ -20290,7 +20258,7 @@ let scholarshipData = [
       "provider": "INSEAD",
       "degreeType": "Master’s Degree",
       "deadline": "Deadline: 7 May/25 Jun 2018",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "January 2019",
       "region": "Singapore"
     },
@@ -20345,7 +20313,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "region": "Thailand"
     },
@@ -20477,7 +20445,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "region": "Australia"
     },
@@ -20983,7 +20951,7 @@ let scholarshipData = [
       "provider": "FINCAD",
       "degreeType": "Masters/PhD Degree",
       "deadline": "30 June 2021 (Annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021",
       "region": "Canada"
     },
@@ -21027,7 +20995,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022",
       "region": "Europe"
     },
@@ -21313,7 +21281,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "Allan and Nesta Ferguson Charitable Trust\nMasters Degree",
       "deadline": "Deadline: 22 Feb 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "region": "Europe"
     },
@@ -21445,7 +21413,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "region": "Europe"
     },
@@ -21687,7 +21655,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "region": "Europe"
     },
@@ -21698,7 +21666,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "region": "Europe"
     },
@@ -21753,7 +21721,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "region": "Europe"
     },
@@ -21797,7 +21765,7 @@ let scholarshipData = [
       "provider": "University College London (UCL)",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "Deadline: 6 July 2018",
-      "country": "London",
+      "country": "UK",
       "courseDate": "September 2018",
       "region": "Europe"
     },
@@ -21929,7 +21897,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "region": "Europe"
     },
@@ -22006,7 +21974,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021",
       "region": "Europe"
     },
@@ -22215,7 +22183,7 @@ let scholarshipData = [
       "provider": "University of Warwick",
       "degreeType": "PhD Degree",
       "deadline": "21 Jan 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "October 2021",
       "region": "Europe"
     },
@@ -22358,7 +22326,7 @@ let scholarshipData = [
       "provider": "ALB Foundation",
       "degreeType": "MBA",
       "deadline": "check website",
-      "country": "Spain and other countries",
+      "country": "Spain",
       "courseDate": "2014",
       "region": "Europe"
     },
@@ -22556,7 +22524,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "region": "Europe"
     },
@@ -22688,7 +22656,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "region": "Europe"
     },
@@ -22721,7 +22689,7 @@ let scholarshipData = [
       "provider": "Mo Ibrahim Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 30 April 2015",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2015",
       "region": "Europe"
     },
@@ -22809,7 +22777,7 @@ let scholarshipData = [
       "provider": "London South Bank University",
       "degreeType": "Postgraduate Degree",
       "deadline": "Deadline: 30 June 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "region": "Europe"
     },
@@ -22908,7 +22876,7 @@ let scholarshipData = [
       "provider": "Geneva Academy",
       "degreeType": "Masters Degree",
       "deadline": "28 Jan 2022 (annual)",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2022",
       "region": "Europe"
     },
@@ -22974,7 +22942,7 @@ let scholarshipData = [
       "provider": "Fondation Rainbow Bridge/HEC",
       "degreeType": "MBA Degree",
       "deadline": "Deadline: 15 Jun/26 Nov 2018 (annual)",
-      "country": "Paris, France",
+      "country": "France",
       "courseDate": "Next course starts Sept 2018/Jan 2019",
       "region": "Europe"
     },
@@ -22996,7 +22964,7 @@ let scholarshipData = [
       "provider": "INSEAD",
       "degreeType": "Master’s Degree",
       "deadline": "Deadline: 7 May/25 Jun 2018",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "January 2019",
       "region": "Europe"
     },
@@ -23029,7 +22997,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "region": "Europe"
     },
@@ -23315,7 +23283,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "region": "Europe"
     },
@@ -23381,7 +23349,7 @@ let scholarshipData = [
       "provider": "University of East London",
       "degreeType": "Masters (MS) Degree",
       "deadline": "1 July 2013",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2013",
       "region": "Europe"
     },
@@ -23469,7 +23437,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "ESMOD\nMasters Degree",
       "deadline": "31 March 2014",
-      "country": "Berlin, Germany",
+      "country": "Germany",
       "courseDate": "October 2014",
       "region": "Europe"
     },
@@ -23612,7 +23580,7 @@ let scholarshipData = [
       "provider": "UNU-IIST",
       "degreeType": "PhD Degree",
       "deadline": "15 Nov 2012",
-      "country": "Macau/Pisa, Italy",
+      "country": "Italy",
       "courseDate": "7 Jan 2013",
       "region": "Europe"
     },
@@ -23931,7 +23899,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "region": "France"
     },
@@ -23942,7 +23910,7 @@ let scholarshipData = [
       "provider": "Fondation Rainbow Bridge/HEC",
       "degreeType": "MBA Degree",
       "deadline": "Deadline: 15 Jun/26 Nov 2018 (annual)",
-      "country": "Paris, France",
+      "country": "France",
       "courseDate": "Next course starts Sept 2018/Jan 2019",
       "region": "France"
     },
@@ -23953,7 +23921,7 @@ let scholarshipData = [
       "provider": "INSEAD",
       "degreeType": "Master’s Degree",
       "deadline": "Deadline: 7 May/25 Jun 2018",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "January 2019",
       "region": "France"
     },
@@ -24063,7 +24031,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "region": "Germany"
     },
@@ -24151,7 +24119,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "ESMOD\nMasters Degree",
       "deadline": "31 March 2014",
-      "country": "Berlin, Germany",
+      "country": "Germany",
       "courseDate": "October 2014",
       "region": "Germany"
     },
@@ -24173,7 +24141,7 @@ let scholarshipData = [
       "provider": "Max Planck Institute for Structural Dynamics",
       "degreeType": "PhD Fellowships",
       "deadline": "13 January 2014",
-      "country": "Hamburg, Germany",
+      "country": "Germany",
       "courseDate": "Summer/Autumn 2014",
       "region": "Germany"
     },
@@ -24283,7 +24251,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "region": "Italy"
     },
@@ -24448,7 +24416,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "region": "Netherlands"
     },
@@ -24778,7 +24746,7 @@ let scholarshipData = [
       "provider": "ALB Foundation",
       "degreeType": "MBA",
       "deadline": "check website",
-      "country": "Spain and other countries",
+      "country": "Spain",
       "courseDate": "2014",
       "region": "Spain"
     },
@@ -25042,7 +25010,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "region": "Switzerland"
     },
@@ -25053,7 +25021,7 @@ let scholarshipData = [
       "provider": "Geneva Academy",
       "degreeType": "Masters Degree",
       "deadline": "28 Jan 2022 (annual)",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2022",
       "region": "Switzerland"
     },
@@ -25339,7 +25307,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "Allan and Nesta Ferguson Charitable Trust\nMasters Degree",
       "deadline": "Deadline: 22 Feb 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "region": "UK"
     },
@@ -25394,7 +25362,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "region": "UK"
     },
@@ -25526,7 +25494,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "region": "UK"
     },
@@ -25570,7 +25538,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "region": "UK"
     },
@@ -25614,7 +25582,7 @@ let scholarshipData = [
       "provider": "University College London (UCL)",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "Deadline: 6 July 2018",
-      "country": "London",
+      "country": "UK",
       "courseDate": "September 2018",
       "region": "UK"
     },
@@ -25647,7 +25615,7 @@ let scholarshipData = [
       "provider": "London South Bank University",
       "degreeType": "Postgraduate Degree",
       "deadline": "Deadline: 30 June 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "region": "UK"
     },
@@ -25746,7 +25714,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021",
       "region": "UK"
     },
@@ -26021,7 +25989,7 @@ let scholarshipData = [
       "provider": "London Business School",
       "degreeType": "Masters Degree  Next",
       "deadline": "Next coincides with admission",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "August 2020",
       "region": "UK"
     },
@@ -26153,7 +26121,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "region": "UK"
     },
@@ -26208,7 +26176,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "region": "UK"
     },
@@ -26241,7 +26209,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "region": "UK"
     },
@@ -26307,7 +26275,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022",
       "region": "UK"
     },
@@ -26373,7 +26341,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "region": "UK"
     },
@@ -26406,7 +26374,7 @@ let scholarshipData = [
       "provider": "Mo Ibrahim Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 30 April 2015",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2015",
       "region": "UK"
     },
@@ -26439,7 +26407,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "region": "UK"
     },
@@ -26560,7 +26528,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "region": "New Zealand"
     },
@@ -26725,7 +26693,7 @@ let scholarshipData = [
       "provider": "East-West Center",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 3 Nov 2014 (annual)",
-      "country": "Hawaii, USA",
+      "country": "USA",
       "courseDate": "August 2015",
       "region": "USA"
     },
@@ -26758,7 +26726,7 @@ let scholarshipData = [
       "provider": "Open Society Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 15 May 2019 (annual)",
-      "country": "various countries",
+      "country": "Various Countries",
       "courseDate": "Aug/Sept 2019",
       "region": "USA"
     },
@@ -26824,7 +26792,7 @@ let scholarshipData = [
       "provider": "MasterCard Foundation",
       "degreeType": "Bachelors/Masters/PhD Degree",
       "deadline": "Deadline: Jan-July 2016",
-      "country": "USA & Africa",
+      "country": "USA",
       "courseDate": "September 2016",
       "region": "USA"
     },
@@ -26956,7 +26924,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022",
       "region": "USA"
     },
@@ -27033,7 +27001,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "targetGroup": "Africans"
     },
@@ -27066,7 +27034,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "targetGroup": "Africans"
     },
@@ -27121,7 +27089,7 @@ let scholarshipData = [
       "provider": "MasterCard Foundation",
       "degreeType": "Bachelors/Masters/PhD Degree",
       "deadline": "Deadline: Jan-July 2016",
-      "country": "USA & Africa",
+      "country": "USA",
       "courseDate": "September 2016",
       "targetGroup": "Africans"
     },
@@ -27132,7 +27100,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "targetGroup": "Africans"
     },
@@ -27264,7 +27232,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "targetGroup": "Africans"
     },
@@ -27429,7 +27397,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016",
       "targetGroup": "Africans"
     },
@@ -27572,7 +27540,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022",
       "targetGroup": "Africans"
     },
@@ -27605,7 +27573,7 @@ let scholarshipData = [
       "provider": "London South Bank University",
       "degreeType": "Postgraduate Degree",
       "deadline": "Deadline: 30 June 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "targetGroup": "Africans"
     },
@@ -27726,7 +27694,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "Allan and Nesta Ferguson Charitable Trust\nMasters Degree",
       "deadline": "Deadline: 22 Feb 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "targetGroup": "Africans"
     },
@@ -27770,7 +27738,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "targetGroup": "Africans"
     },
@@ -27781,7 +27749,7 @@ let scholarshipData = [
       "provider": "Aga Khan Foundation",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 31 March (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021",
       "targetGroup": "Africans"
     },
@@ -27924,7 +27892,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "targetGroup": "Africans"
     },
@@ -28056,7 +28024,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "targetGroup": "Africans"
     },
@@ -28100,7 +28068,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "targetGroup": "Africans"
     },
@@ -28155,7 +28123,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021",
       "targetGroup": "Africans"
     },
@@ -28166,7 +28134,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Africans"
     },
@@ -28177,7 +28145,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts September 2014",
       "targetGroup": "Africans"
     },
@@ -28210,7 +28178,7 @@ let scholarshipData = [
       "provider": "ALB Foundation",
       "degreeType": "MBA",
       "deadline": "check website",
-      "country": "Spain and other countries",
+      "country": "Spain",
       "courseDate": "2014",
       "targetGroup": "Africans"
     },
@@ -28221,7 +28189,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "targetGroup": "Africans"
     },
@@ -28430,7 +28398,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "targetGroup": "Africans"
     },
@@ -28485,7 +28453,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "targetGroup": "Africans"
     },
@@ -28573,7 +28541,7 @@ let scholarshipData = [
       "provider": "Fondation Rainbow Bridge/HEC",
       "degreeType": "MBA Degree",
       "deadline": "Deadline: 15 Jun/26 Nov 2018 (annual)",
-      "country": "Paris, France",
+      "country": "France",
       "courseDate": "Next course starts Sept 2018/Jan 2019",
       "targetGroup": "Africans"
     },
@@ -28606,7 +28574,7 @@ let scholarshipData = [
       "provider": "INSEAD",
       "degreeType": "Master’s Degree",
       "deadline": "Deadline: 7 May/25 Jun 2018",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "January 2019",
       "targetGroup": "Africans"
     },
@@ -28672,7 +28640,7 @@ let scholarshipData = [
       "provider": "Ashinaga",
       "degreeType": "Bachelors Degree",
       "deadline": "Deadline: 29 Feb 2016 (annual)",
-      "country": "Any country",
+      "country": "Any Country",
       "courseDate": "2016",
       "targetGroup": "Africans"
     },
@@ -28749,7 +28717,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Africans"
     },
@@ -28892,7 +28860,7 @@ let scholarshipData = [
       "provider": "University of Warwick",
       "degreeType": "PhD Degree",
       "deadline": "21 Jan 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "October 2021",
       "targetGroup": "Africans"
     },
@@ -28903,7 +28871,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "targetGroup": "Africans"
     },
@@ -29068,7 +29036,7 @@ let scholarshipData = [
       "provider": "Central European University",
       "degreeType": "Research Fellowship",
       "deadline": "11 November 2013",
-      "country": "Budapest, Hungary",
+      "country": "Hungary",
       "courseDate": "2014",
       "targetGroup": "Africans"
     },
@@ -29134,7 +29102,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "targetGroup": "Africans"
     },
@@ -29156,7 +29124,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "targetGroup": "Africans"
     },
@@ -29167,7 +29135,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021",
       "targetGroup": "Africans"
     },
@@ -29255,7 +29223,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "targetGroup": "Africans"
     },
@@ -29288,7 +29256,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "targetGroup": "Asians"
     },
@@ -29398,7 +29366,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "targetGroup": "Asians"
     },
@@ -29442,7 +29410,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016",
       "targetGroup": "Asians"
     },
@@ -29574,7 +29542,7 @@ let scholarshipData = [
       "provider": "Aga Khan Foundation",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 31 March (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021",
       "targetGroup": "Asians"
     },
@@ -29662,7 +29630,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "targetGroup": "Asians"
     },
@@ -29673,7 +29641,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "targetGroup": "Asians"
     },
@@ -29816,7 +29784,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "targetGroup": "Asians"
     },
@@ -29838,7 +29806,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "targetGroup": "Asians"
     },
@@ -29849,7 +29817,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021",
       "targetGroup": "Asians"
     },
@@ -29871,7 +29839,7 @@ let scholarshipData = [
       "provider": "Central European University",
       "degreeType": "Research Fellowship",
       "deadline": "11 November 2013",
-      "country": "Budapest, Hungary",
+      "country": "Hungary",
       "courseDate": "2014",
       "targetGroup": "Asians"
     },
@@ -29981,7 +29949,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "targetGroup": "Asians"
     },
@@ -30036,7 +30004,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021",
       "targetGroup": "Asians"
     },
@@ -30047,7 +30015,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Asians"
     },
@@ -30069,7 +30037,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "targetGroup": "Asians"
     },
@@ -30344,7 +30312,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022",
       "targetGroup": "Asians"
     },
@@ -30432,7 +30400,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Asians"
     },
@@ -30487,7 +30455,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "targetGroup": "Asians"
     },
@@ -30740,7 +30708,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "targetGroup": "Asians"
     },
@@ -30773,7 +30741,7 @@ let scholarshipData = [
       "provider": "Fondation Rainbow Bridge/HEC",
       "degreeType": "MBA Degree",
       "deadline": "Deadline: 15 Jun/26 Nov 2018 (annual)",
-      "country": "Paris, France",
+      "country": "France",
       "courseDate": "Next course starts Sept 2018/Jan 2019",
       "targetGroup": "Asians"
     },
@@ -30839,7 +30807,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "targetGroup": "Asians"
     },
@@ -30938,7 +30906,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "targetGroup": "Asians"
     },
@@ -31048,7 +31016,7 @@ let scholarshipData = [
       "provider": "London South Bank University",
       "degreeType": "Postgraduate Degree",
       "deadline": "Deadline: 30 June 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "targetGroup": "Asians"
     },
@@ -31180,7 +31148,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "targetGroup": "Asians"
     },
@@ -31202,7 +31170,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "targetGroup": "Asians"
     },
@@ -31356,7 +31324,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "targetGroup": "Asians"
     },
@@ -31444,7 +31412,7 @@ let scholarshipData = [
       "provider": "University of Warwick",
       "degreeType": "PhD Degree",
       "deadline": "21 Jan 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "October 2021",
       "targetGroup": "Asians"
     },
@@ -31455,7 +31423,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "targetGroup": "Asians"
     },
@@ -31664,7 +31632,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "targetGroup": "Developing Countries"
     },
@@ -31818,7 +31786,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "targetGroup": "Developing Countries"
     },
@@ -31939,7 +31907,7 @@ let scholarshipData = [
       "provider": "Max Planck Institute for Structural Dynamics",
       "degreeType": "PhD Fellowships",
       "deadline": "13 January 2014",
-      "country": "Hamburg, Germany",
+      "country": "Germany",
       "courseDate": "Summer/Autumn 2014",
       "targetGroup": "Developing Countries"
     },
@@ -32082,7 +32050,7 @@ let scholarshipData = [
       "provider": "Wellcome",
       "degreeType": "Masters Degree/Research Project",
       "deadline": "13 April/24 Aug 2021",
-      "country": "any country/developing country",
+      "country": "Any Country",
       "courseDate": "2021/22",
       "targetGroup": "Developing Countries"
     },
@@ -32093,7 +32061,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Developing Countries"
     },
@@ -32148,7 +32116,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "targetGroup": "Developing Countries"
     },
@@ -32170,7 +32138,7 @@ let scholarshipData = [
       "provider": "Berea College",
       "degreeType": "Bachelors Degree",
       "deadline": "Deadline: 31 Oct/30 Nov 2018",
-      "country": "Kentucky, USA",
+      "country": "USA",
       "courseDate": ": Sept 2019",
       "targetGroup": "Developing Countries"
     },
@@ -32181,7 +32149,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Conference",
       "deadline": "Deadline: 20 July 2018",
-      "country": "Venue:  The Hague, Netherlands",
+      "country": "Netherlands",
       "courseDate": "Conference dates: 17-20 October 2018",
       "targetGroup": "Developing Countries"
     },
@@ -32368,7 +32336,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "targetGroup": "Developing Countries"
     },
@@ -32379,7 +32347,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "targetGroup": "Developing Countries"
     },
@@ -32665,7 +32633,7 @@ let scholarshipData = [
       "provider": "Geneva Academy",
       "degreeType": "Masters Degree",
       "deadline": "28 Jan 2022 (annual)",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2022",
       "targetGroup": "Developing Countries"
     },
@@ -32731,7 +32699,7 @@ let scholarshipData = [
       "provider": "University of Warwick",
       "degreeType": "PhD Degree",
       "deadline": "21 Jan 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "October 2021",
       "targetGroup": "Developing Countries"
     },
@@ -32742,7 +32710,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "targetGroup": "Developing Countries"
     },
@@ -32797,7 +32765,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "targetGroup": "Developing Countries"
     },
@@ -32830,7 +32798,7 @@ let scholarshipData = [
       "provider": "Global Sustainable Electricity Partnership",
       "degreeType": "Masters Degree",
       "deadline": "8 Mar 2021 (annual)",
-      "country": "Any Country*",
+      "country": "Any Country",
       "courseDate": "2021",
       "targetGroup": "Developing Countries"
     },
@@ -32863,7 +32831,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Developing Countries"
     },
@@ -33017,7 +32985,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "targetGroup": "Developing Countries"
     },
@@ -33127,7 +33095,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "targetGroup": "Developing Countries"
     },
@@ -33171,7 +33139,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "targetGroup": "Developing Countries"
     },
@@ -33358,7 +33326,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "targetGroup": "Developing Countries"
     },
@@ -33413,7 +33381,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016",
       "targetGroup": "Developing Countries"
     },
@@ -33435,7 +33403,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "targetGroup": "Developing Countries"
     },
@@ -33490,7 +33458,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "targetGroup": "South Asians"
     },
@@ -33501,7 +33469,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "targetGroup": "South Asians"
     },
@@ -33534,7 +33502,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021",
       "targetGroup": "South Asians"
     },
@@ -33589,7 +33557,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022",
       "targetGroup": "South Asians"
     },
@@ -33732,7 +33700,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "targetGroup": "South Asians"
     },
@@ -33765,7 +33733,7 @@ let scholarshipData = [
       "provider": "East-West Center",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 3 Nov 2014 (annual)",
-      "country": "Hawaii, USA",
+      "country": "USA",
       "courseDate": "August 2015",
       "targetGroup": "South Asians"
     },
@@ -33842,7 +33810,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "targetGroup": "South Asians"
     },
@@ -33974,7 +33942,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "targetGroup": "South Asians"
     },
@@ -34040,7 +34008,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "targetGroup": "South Asians"
     },
@@ -34117,7 +34085,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "targetGroup": "South Asians"
     },
@@ -34172,7 +34140,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "targetGroup": "South Asians"
     },
@@ -34238,7 +34206,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "targetGroup": "South Asians"
     },
@@ -34249,7 +34217,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "targetGroup": "South Asians"
     },
@@ -34425,7 +34393,7 @@ let scholarshipData = [
       "provider": "Aga Khan Foundation",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 31 March (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021",
       "targetGroup": "South Asians"
     },
@@ -34436,7 +34404,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015",
       "targetGroup": "South-East Asians"
     },
@@ -34469,7 +34437,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "targetGroup": "South-East Asians"
     },
@@ -34601,7 +34569,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "targetGroup": "South-East Asians"
     },
@@ -34667,7 +34635,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "targetGroup": "South-East Asians"
     },
@@ -34810,7 +34778,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "targetGroup": "South-East Asians"
     },
@@ -34821,7 +34789,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "targetGroup": "South-East Asians"
     },
@@ -34964,7 +34932,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "targetGroup": "South-East Asians"
     },
@@ -35052,7 +35020,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022",
       "targetGroup": "South-East Asians"
     },
@@ -35162,7 +35130,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "targetGroup": "South-East Asians"
     },
@@ -35239,7 +35207,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "targetGroup": "South-East Asians"
     },
@@ -35250,7 +35218,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "targetGroup": "South-East Asians"
     },
@@ -35261,7 +35229,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021",
       "targetGroup": "South-East Asians"
     },
@@ -35327,7 +35295,7 @@ let scholarshipData = [
       "provider": "University of East London",
       "degreeType": "Masters (MS) Degree",
       "deadline": "1 July 2013",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2013",
       "targetGroup": "East Europeans"
     },
@@ -35338,7 +35306,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "targetGroup": "East Europeans"
     },
@@ -35393,7 +35361,7 @@ let scholarshipData = [
       "provider": "University of Warwick",
       "degreeType": "PhD Degree",
       "deadline": "21 Jan 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "October 2021",
       "targetGroup": "East Europeans"
     },
@@ -35404,7 +35372,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "targetGroup": "East Europeans"
     },
@@ -35492,7 +35460,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "East Europeans"
     },
@@ -35558,7 +35526,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "targetGroup": "East Europeans"
     },
@@ -35668,7 +35636,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "targetGroup": "East Europeans"
     },
@@ -35778,7 +35746,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "targetGroup": "East Europeans"
     },
@@ -35998,7 +35966,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "targetGroup": "East Europeans"
     },
@@ -36229,7 +36197,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016",
       "targetGroup": "East Europeans"
     },
@@ -36328,7 +36296,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "targetGroup": "East Europeans"
     },
@@ -36350,7 +36318,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021",
       "targetGroup": "East Europeans"
     },
@@ -36361,7 +36329,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "targetGroup": "East Europeans"
     },
@@ -36416,7 +36384,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "East Europeans"
     },
@@ -36592,7 +36560,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "targetGroup": "East Europeans"
     },
@@ -36614,7 +36582,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "targetGroup": "East Europeans"
     },
@@ -36845,7 +36813,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "targetGroup": "Latin Americans"
     },
@@ -36856,7 +36824,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "targetGroup": "Latin Americans"
     },
@@ -37021,7 +36989,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "targetGroup": "Latin Americans"
     },
@@ -37230,7 +37198,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015",
       "targetGroup": "Latin Americans"
     },
@@ -37307,7 +37275,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "targetGroup": "Latin Americans"
     },
@@ -37351,7 +37319,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "targetGroup": "Latin Americans"
     },
@@ -37384,7 +37352,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "targetGroup": "Latin Americans"
     },
@@ -37461,7 +37429,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "targetGroup": "Latin Americans"
     },
@@ -37483,7 +37451,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021",
       "targetGroup": "Latin Americans"
     },
@@ -37494,7 +37462,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "targetGroup": "Latin Americans"
     },
@@ -37725,7 +37693,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Latin Americans"
     },
@@ -37758,7 +37726,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "targetGroup": "Latin Americans"
     },
@@ -37945,7 +37913,7 @@ let scholarshipData = [
       "provider": "London South Bank University",
       "degreeType": "Postgraduate Degree",
       "deadline": "Deadline: 30 June 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "targetGroup": "Latin Americans"
     },
@@ -38044,7 +38012,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Latin Americans"
     },
@@ -38088,7 +38056,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "targetGroup": "Latin Americans"
     },
@@ -38220,7 +38188,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "targetGroup": "Latin Americans"
     },
@@ -38308,7 +38276,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022",
       "targetGroup": "Latin Americans"
     },
@@ -38506,7 +38474,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "targetGroup": "Latin Americans"
     },
@@ -38550,7 +38518,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016",
       "targetGroup": "Latin Americans"
     },
@@ -38616,7 +38584,7 @@ let scholarshipData = [
       "provider": "University of Warwick",
       "degreeType": "PhD Degree",
       "deadline": "21 Jan 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "October 2021",
       "targetGroup": "Latin Americans"
     },
@@ -38627,7 +38595,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "targetGroup": "Latin Americans"
     },
@@ -38660,7 +38628,7 @@ let scholarshipData = [
       "provider": "University of East London",
       "degreeType": "Masters (MS) Degree",
       "deadline": "1 July 2013",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2013",
       "targetGroup": "Pacific Islanders"
     },
@@ -38726,7 +38694,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019",
       "targetGroup": "Pacific Islanders"
     },
@@ -38737,7 +38705,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "targetGroup": "Pacific Islanders"
     },
@@ -38781,7 +38749,7 @@ let scholarshipData = [
       "provider": "London South Bank University",
       "degreeType": "Postgraduate Degree",
       "deadline": "Deadline: 30 June 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "targetGroup": "Pacific Islanders"
     },
@@ -39012,7 +38980,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "targetGroup": "Pacific Islanders"
     },
@@ -39089,7 +39057,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "targetGroup": "Pacific Islanders"
     },
@@ -39111,7 +39079,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021",
       "targetGroup": "Pacific Islanders"
     },
@@ -39122,7 +39090,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021",
       "targetGroup": "Pacific Islanders"
     },
@@ -39155,7 +39123,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021",
       "targetGroup": "Pacific Islanders"
     },
@@ -39243,7 +39211,7 @@ let scholarshipData = [
       "provider": "University of Warwick",
       "degreeType": "PhD Degree",
       "deadline": "21 Jan 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "October 2021",
       "targetGroup": "Pacific Islanders"
     },
@@ -39254,7 +39222,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "targetGroup": "Pacific Islanders"
     },
@@ -39287,7 +39255,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016",
       "targetGroup": "Pacific Islanders"
     },
@@ -39386,7 +39354,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Pacific Islanders"
     },
@@ -39463,7 +39431,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021",
       "targetGroup": "Pacific Islanders"
     },
@@ -39617,7 +39585,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "targetGroup": "Pacific Islanders"
     },
@@ -39650,7 +39618,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "targetGroup": "Pacific Islanders"
     },
@@ -39804,7 +39772,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022",
       "targetGroup": "Pacific Islanders"
     },
@@ -40013,7 +39981,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020",
       "targetGroup": "Pacific Islanders"
     },
@@ -40343,7 +40311,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "Pacific Islanders"
     },
@@ -40387,7 +40355,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "targetGroup": "Pacific Islanders"
     },
@@ -40420,7 +40388,7 @@ let scholarshipData = [
       "provider": "East-West Center",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 3 Nov 2014 (annual)",
-      "country": "Hawaii, USA",
+      "country": "USA",
       "courseDate": "August 2015",
       "targetGroup": "Pacific Islanders"
     },
@@ -40508,7 +40476,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "targetGroup": "Pacific Islanders"
     },
@@ -40552,7 +40520,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016",
       "targetGroup": "Pacific Islanders"
     },
@@ -40618,7 +40586,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014",
       "targetGroup": "US Minorities"
     },
@@ -40662,7 +40630,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016",
       "targetGroup": "US Minorities"
     },
@@ -40794,7 +40762,7 @@ let scholarshipData = [
       "provider": "Aga Khan Foundation",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 31 March (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021",
       "targetGroup": "US Minorities"
     },
@@ -40827,7 +40795,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "US Minorities"
     },
@@ -40860,7 +40828,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22",
       "targetGroup": "US Minorities"
     },
@@ -40981,7 +40949,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016",
       "targetGroup": "US Minorities"
     },
@@ -41014,7 +40982,7 @@ let scholarshipData = [
       "provider": "London South Bank University",
       "degreeType": "Postgraduate Degree",
       "deadline": "Deadline: 30 June 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017",
       "targetGroup": "US Minorities"
     },
@@ -41146,7 +41114,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022",
       "targetGroup": "US Minorities"
     },
@@ -41190,7 +41158,7 @@ let scholarshipData = [
       "provider": "University of West London",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "28 March/4 July 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "June/Sept 2021",
       "targetGroup": "US Minorities"
     },
@@ -41322,7 +41290,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021",
       "targetGroup": "US Minorities"
     },
@@ -41366,7 +41334,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021",
       "targetGroup": "US Minorities"
     },
@@ -41553,7 +41521,7 @@ let scholarshipData = [
       "provider": "East-West Center",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 3 Nov 2014 (annual)",
-      "country": "Hawaii, USA",
+      "country": "USA",
       "courseDate": "August 2015",
       "targetGroup": "US Minorities"
     },
@@ -41608,7 +41576,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021",
       "targetGroup": "US Minorities"
     },
@@ -41696,7 +41664,7 @@ let scholarshipData = [
       "provider": "Fondation Rainbow Bridge/HEC",
       "degreeType": "MBA Degree",
       "deadline": "Deadline: 15 Jun/26 Nov 2018 (annual)",
-      "country": "Paris, France",
+      "country": "France",
       "courseDate": "Next course starts Sept 2018/Jan 2019",
       "targetGroup": "Women"
     },
@@ -41718,7 +41686,7 @@ let scholarshipData = [
       "provider": "FINCAD",
       "degreeType": "Masters/PhD Degree",
       "deadline": "30 June 2021 (Annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021",
       "targetGroup": "Women"
     },
@@ -41729,7 +41697,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022",
       "targetGroup": "Women"
     },
@@ -41795,7 +41763,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017",
       "targetGroup": "Women"
     },
@@ -41997,7 +41965,7 @@ let scholarshipData = [
       "provider": "ALB Foundation",
       "degreeType": "MBA",
       "deadline": "check website",
-      "country": "Spain and other countries",
+      "country": "Spain",
       "courseDate": "2014"
     },
     {
@@ -42127,7 +42095,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022"
     },
     {
@@ -42147,7 +42115,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022"
     },
     {
@@ -42197,7 +42165,7 @@ let scholarshipData = [
       "provider": "Japan Gov’t/World Bank",
       "degreeType": "Masters Degree",
       "deadline": "21 May 2021 (annual)",
-      "country": "selected Countries",
+      "country": "World Bank + Japan",
       "courseDate": "AY 2021-2022"
     },
     {
@@ -42307,7 +42275,7 @@ let scholarshipData = [
       "provider": "FINCAD",
       "degreeType": "Masters/PhD Degree",
       "deadline": "30 June 2021 (Annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021"
     },
     {
@@ -42557,7 +42525,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021"
     },
     {
@@ -42577,7 +42545,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22"
     },
     {
@@ -42647,7 +42615,7 @@ let scholarshipData = [
       "provider": "Global Sustainable Electricity Partnership",
       "degreeType": "Masters Degree",
       "deadline": "8 Mar 2021 (annual)",
-      "country": "Any Country*",
+      "country": "Any Country",
       "courseDate": "2021"
     },
     {
@@ -42807,7 +42775,7 @@ let scholarshipData = [
       "provider": "Hong Kong RGC",
       "degreeType": "Doctoral (PhD) Degree",
       "deadline": "1 Dec 2020 (annual)",
-      "country": "Hong Kong, China",
+      "country": "Hong Kong",
       "courseDate": "September 2021"
     },
     {
@@ -42977,7 +42945,7 @@ let scholarshipData = [
       "provider": "IOE/ISH",
       "degreeType": "Masters Degree",
       "deadline": "3 May 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept/Oct 2021"
     },
     {
@@ -43007,7 +42975,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021"
     },
     {
@@ -43037,7 +43005,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021"
     },
     {
@@ -43077,7 +43045,7 @@ let scholarshipData = [
       "provider": "Dorothy Marchus Senesh/IPRA",
       "degreeType": "Masters Degree",
       "deadline": "15 Jan 2016 (biennial)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2016"
     },
     {
@@ -43097,7 +43065,7 @@ let scholarshipData = [
       "provider": "MasterCard Foundation",
       "degreeType": "Bachelors/Masters/PhD Degree",
       "deadline": "Deadline: Jan-July 2016",
-      "country": "USA & Africa",
+      "country": "USA",
       "courseDate": "September 2016"
     },
     {
@@ -43147,7 +43115,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015"
     },
     {
@@ -43351,16 +43319,6 @@ let scholarshipData = [
       "courseDate": "Autumn 2021"
     },
     {
-      "scholarship": "Benjamin A. Gilman International Scholarship",
-      "link": "https://www.scholars4dev.com/26028/benjamin-a-gilman-international-scholarship/",
-      "dateUpdated": "04 Aug 2020",
-      "provider": "U.S. Department of State",
-      "degreeType": "Bachelors Degree",
-      "deadline": "31 Mar/31 Oct 2020 (Annual)",
-      "country": "Countries outside the U.S.",
-      "courseDate": "2020/2021/2022"
-    },
-    {
       "scholarship": "Waterloo International Master’s Award of Excellence",
       "link": "https://www.scholars4dev.com/26018/waterloo-international-masters-award-of-excellence/",
       "dateUpdated": "04 Aug 2020",
@@ -43527,7 +43485,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014"
     },
     {
@@ -43567,7 +43525,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016"
     },
     {
@@ -43577,7 +43535,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts June 2014"
     },
     {
@@ -43797,7 +43755,7 @@ let scholarshipData = [
       "provider": "Aga Khan Foundation",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 31 March (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2021"
     },
     {
@@ -43887,7 +43845,7 @@ let scholarshipData = [
       "provider": "Fondation Rainbow Bridge/HEC",
       "degreeType": "MBA Degree",
       "deadline": "Deadline: 15 Jun/26 Nov 2018 (annual)",
-      "country": "Paris, France",
+      "country": "France",
       "courseDate": "Next course starts Sept 2018/Jan 2019"
     },
     {
@@ -43917,7 +43875,7 @@ let scholarshipData = [
       "provider": "INSEAD",
       "degreeType": "Master’s Degree",
       "deadline": "Deadline: 7 May/25 Jun 2018",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "January 2019"
     },
     {
@@ -43927,7 +43885,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016"
     },
     {
@@ -43997,7 +43955,7 @@ let scholarshipData = [
       "provider": "University of Geneva",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 30 June 2019",
-      "country": "Geneva, Switzerland",
+      "country": "Switzerland",
       "courseDate": "September 2019"
     },
     {
@@ -44007,7 +43965,7 @@ let scholarshipData = [
       "provider": "Schlumberger Foundation",
       "degreeType": "PhD/Postdoctoral Study",
       "deadline": "18 Nov 2016 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "2017"
     },
     {
@@ -44077,7 +44035,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021"
     },
     {
@@ -44117,7 +44075,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021"
     },
     {
@@ -44177,7 +44135,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019"
     },
     {
@@ -44187,7 +44145,7 @@ let scholarshipData = [
       "provider": "Syngenta/INSEAD",
       "degreeType": "Masters (MS) Degree",
       "deadline": "4 Jan/8 Apr/3 Jun 2019",
-      "country": "France/Singapore",
+      "country": "France, Singapore",
       "courseDate": "July/December 2020"
     },
     {
@@ -44317,7 +44275,7 @@ let scholarshipData = [
       "provider": "Sheffield Hallam University",
       "degreeType": "Bachelors/Masters Degree",
       "deadline": "31 May/1 Nov 2021 (annual)",
-      "country": "Sheffield, UK",
+      "country": "UK",
       "courseDate": "Sept 2021/Jan 2022"
     },
     {
@@ -44367,7 +44325,7 @@ let scholarshipData = [
       "provider": "ADB/Japan Government",
       "degreeType": "Masters Degree",
       "deadline": "varies",
-      "country": "Asia, Australia, NZ",
+      "country": "Asia, Australia, New Zealand",
       "courseDate": "2021/2022"
     },
     {
@@ -44377,7 +44335,7 @@ let scholarshipData = [
       "provider": "Rotary Foundation",
       "degreeType": "Masters/PhD Degrees",
       "deadline": "Rolling**",
-      "country": "any Country*",
+      "country": "Any Country",
       "courseDate": "AY 2021/2022"
     },
     {
@@ -44417,7 +44375,7 @@ let scholarshipData = [
       "provider": "Mo Ibrahim Foundation",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 30 April 2015",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2015"
     },
     {
@@ -44437,7 +44395,7 @@ let scholarshipData = [
       "provider": "Univ of Nottingham Bus. School",
       "degreeType": "Masters Degree",
       "deadline": "31 July 2014",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2014"
     },
     {
@@ -44487,7 +44445,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "Deadline: 10 Dec 2015",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts Jan 2016"
     },
     {
@@ -44507,7 +44465,7 @@ let scholarshipData = [
       "provider": "Wells Mountain Foundation",
       "degreeType": "Bachelor’s Degree",
       "deadline": "1 March 2021 (annual)",
-      "country": "any developing country",
+      "country": "Developing Countries",
       "courseDate": "2021"
     },
     {
@@ -44537,7 +44495,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Bachelors Degree",
       "deadline": "30 Sept/21 Oct 2021 (annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Next term starts 11 Nov 2021"
     },
     {
@@ -44627,7 +44585,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021"
     },
     {
@@ -44727,7 +44685,7 @@ let scholarshipData = [
       "provider": "London Metropolitan Univ",
       "degreeType": "Masters Degree",
       "deadline": "30 April 2015 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Next course starts September 2015"
     },
     {
@@ -44757,7 +44715,7 @@ let scholarshipData = [
       "provider": "East-West Center",
       "degreeType": "Masters/PhD Degree",
       "deadline": "Deadline: 3 Nov 2014 (annual)",
-      "country": "Hawaii, USA",
+      "country": "USA",
       "courseDate": "August 2015"
     },
     {
@@ -44787,7 +44745,7 @@ let scholarshipData = [
       "provider": "UNU-IIST",
       "degreeType": "PhD Degree",
       "deadline": "15 Nov 2012",
-      "country": "Macau/Pisa, Italy",
+      "country": "Italy",
       "courseDate": "7 Jan 2013"
     },
     {
@@ -44827,7 +44785,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "Allan and Nesta Ferguson Charitable Trust\nMasters Degree",
       "deadline": "Deadline: 22 Feb 2017",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2017"
     },
     {
@@ -44907,7 +44865,7 @@ let scholarshipData = [
       "provider": "Fondation Rainbow Bridge/HEC",
       "degreeType": "MBA Degree",
       "deadline": "Deadline: 15 Jun/26 Nov 2018 (annual)",
-      "country": "Paris, France",
+      "country": "France",
       "courseDate": "Next course starts Sept 2018/Jan 2019"
     },
     {
@@ -45037,7 +44995,7 @@ let scholarshipData = [
       "provider": "University of Edinburgh",
       "degreeType": "Online Masters Degree",
       "deadline": "1 June 2021 (Annual)",
-      "country": "any Country (online)",
+      "country": "Any Country",
       "courseDate": "Sept 2021"
     },
     {
@@ -45047,7 +45005,7 @@ let scholarshipData = [
       "provider": "University of the West of England",
       "degreeType": "Masters Degree",
       "deadline": "30 June 2021 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "Sept 2021"
     },
     {
@@ -45077,7 +45035,7 @@ let scholarshipData = [
       "provider": "Bocconi University",
       "degreeType": "Bachelor’s/Masters Degree",
       "deadline": "8 Apr/27 May 2021",
-      "country": "Milan, Italy",
+      "country": "Italy",
       "courseDate": "2021/22"
     },
     {
@@ -45127,7 +45085,7 @@ let scholarshipData = [
       "provider": "OFID",
       "degreeType": "Masters (MS) Degree",
       "deadline": "Deadline: 14 April 2019 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "Aug/Sept 2019"
     },
     {
@@ -45147,7 +45105,7 @@ let scholarshipData = [
       "provider": "University of the People",
       "degreeType": "Associate Degree",
       "deadline": "8 May 2014",
-      "country": "Any Country (online)",
+      "country": "Any Country",
       "courseDate": "Term starts June 2014"
     },
     {
@@ -45197,7 +45155,7 @@ let scholarshipData = [
       "provider": "Islamic Development Bank",
       "degreeType": "Bachelors (BS) Degree",
       "deadline": "varies, June-Dec",
-      "country": "home country/IDB country",
+      "country": "IDB Country",
       "courseDate": "Next course starts 2015"
     },
     {
@@ -45257,7 +45215,7 @@ let scholarshipData = [
       "provider": "",
       "degreeType": "DFID/UK Universities\nOnline Masters Degree",
       "deadline": "26 April 2021 (annual)",
-      "country": "any Country",
+      "country": "Any Country",
       "courseDate": "September 2021"
     },
     {
@@ -45377,7 +45335,7 @@ let scholarshipData = [
       "provider": "University of West England",
       "degreeType": "Masters Degree",
       "deadline": "Deadline: 31 Mar 2016 (annual)",
-      "country": "London, UK",
+      "country": "UK",
       "courseDate": "September 2016"
     },
     {
